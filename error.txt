@@ -1,0 +1,2 @@
+No config path provided, using default 'drizzle.config.ts'
+Reading config file 'C:\Users\rakes\OneDrive\Documents\New folder\drizzle.config.ts'
